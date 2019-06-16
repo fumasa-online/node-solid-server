@@ -7,7 +7,7 @@ RUN openssl req \
     -days 365 \
     -nodes \
     -x509 \
-    -subj "/C=US/ST=Denial/L=Springfield/O=Dis/CN=www.example.com" \
+    -subj "/C=BR/ST=Denial/L=Sampa/O=Dis/CN=fumasa.online" \
     -keyout privkey.pem \
     -out fullchain.pem
 CMD npm run solid start

@@ -17,6 +17,6 @@
   },
   "enforceToc": true,
   "disablePasswordChecks": false,
-  "tocUri": "https://your-toc",
-  "supportEmail": "Your support email address"
+  "tocUri": "https://fumasa.org",
+  "supportEmail": "support@fumasa.org"
 }
