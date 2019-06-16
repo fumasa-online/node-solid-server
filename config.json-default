@@ -1,7 +1,7 @@
 {
   "root": "./data",
-  "port": "8443",
-  "serverUri": "https://localhost:8443",
+  "port": "8080",
+  "serverUri": "https://localhost:8080",
   "webid": true,
   "mount": "/",
   "configPath": "./config",
